@@ -1,0 +1,5 @@
+ 11:46:25 up  1:05,  3 users,  load average: 0.00, 0.01, 0.05
+USER     TTY      FROM              LOGIN@   IDLE   JCPU   PCPU WHAT
+root     tty7     :0               10:41    1:05m 45.66s  0.16s gnome-session
+root     pts/0    :0.0             10:52   33:26   2.36s  0.00s aspell --mode=n
+root     pts/1    :0.0             11:46    0.00s  0.00s  0.00s w
