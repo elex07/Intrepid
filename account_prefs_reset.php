@@ -35,6 +35,7 @@
 	 * @copyright Copyright (C) 2002 - 2012  MantisBT Team - mantisbt-dev@lists.sourceforge.net
 	 * @link http://www.mantisbt.org
 	 */
+//another comment
 	 /**
 	  * MantisBT Core API's
 	  */
