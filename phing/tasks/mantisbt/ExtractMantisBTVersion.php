@@ -15,7 +15,7 @@
 # along with MantisBT.  If not, see <http://www.gnu.org/licenses/>.
 require_once('phing/Task.php');
 
-/**
+/*
  * The <tt>ExtractMantisBTVersion</tt> is a custom task which extracts the MantisBT version
  * as defined by the constants file.
  *  
